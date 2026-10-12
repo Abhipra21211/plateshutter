@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_desc">Taps the camera shutter button on a timer or when a nameplate is seen.</string>
+</resources>
